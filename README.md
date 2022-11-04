@@ -4,7 +4,7 @@ Boas-vindas ao meu perfil.
 - 📫 Como me encontrar: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-vassoler//)](https://www.linkedin.com/in/fernanda-vassoler/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@ferdns)](https://medium.com/@ferdns)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dns.nanda@gmail.com)](dns.nanda@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dns.nanda@gmail.com)](mailto:dns.nanda@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/fernandavassoler)](https://www.kaggle.com/fernandavassoler)
 
 <p align="left">
