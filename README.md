@@ -12,7 +12,8 @@ Boas-vindas ao meu perfil.
 </p>
 <br>
 
-**Analista de dados:** com foco em coleta, pré processamento de dados e análise estatística
+**Analista de dados:** com foco em coleta, pré processamento de dados e análise estatística.
+Tive atuação principalmente na construção e manutenção de chatbots. Foi onde trabalhei ativamente com processamento de NLP em big data e também no suporte de pipelines de machine learning em produção.
 
 ## Tenho experiência com:
 
