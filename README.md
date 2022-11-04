@@ -1,5 +1,5 @@
 ### Olá 👋
-Boas vindas ao meu perfil.
+Boas-vindas ao meu perfil.
 
 - 📫 Como me encontrar: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-vassoler//)](https://www.linkedin.com/in/fernanda-vassoler/)
