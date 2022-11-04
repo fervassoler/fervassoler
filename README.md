@@ -26,7 +26,7 @@ Tive atuação principalmente na construção e manutenção de chatbots. Foi on
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visual-studio-code)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-black?logo=visual-studio-code)
 
-### 🎲 Ciência da dados & Análise de dados:
+### 🎲 Ciência de dados & Análise de dados:
 ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=Pandas)
 ![SciPy](https://img.shields.io/badge/-SciPy-black?logo=SciPy)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?logo=Numpy)
