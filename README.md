@@ -7,8 +7,11 @@ Boas-vindas ao meu perfil.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dns.nanda@gmail.com)](mailto:dns.nanda@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/fernandavassoler)](https://www.kaggle.com/fernandavassoler)
 
-**Analista de dados:** com foco em coleta, pré processamento de dados e análise estatística.
-Tive atuação principalmente na construção e manutenção de chatbots. Foi onde trabalhei ativamente com processamento de NLP em big data e também no suporte de pipelines de machine learning em produção.
+- Atuação profissional:
+  
+  **Machine Learning Engineer:** Trabalho com foco na disponibilização de modelos de machine learning em produção através de pipelines CI/CD, e na evolução, manutenção e construção de ferramentas que auxiliam a esteira de deploy e desenvolvimento de modelos.
+
+  **Anteriores:** Analista de big data NLP, Analista de chatbots, Suporte de software, Analista de qualidade de software, Desenvolvedora backend.
 
 ## Tenho experiência com:
 
@@ -53,12 +56,6 @@ Tive atuação principalmente na construção e manutenção de chatbots. Foi on
 
 ![Airflow](https://img.shields.io/badge/-Airflow-black?logo=Apache-Airflow)
 ![Estatística](https://img.shields.io/badge/-+Estatística-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAYAAABPhbxiAAAAAXNSR0IArs4c6QAAAXJJREFUKFN90T9IAmEcxvHvXZ1apgQZRFZQXUNE1BC1Bi1JCOXsEs0GEa5FEA5tDeEQLk7tLWHELQ0R1ORQmFFRcAoSGYnY3fvG2R8SqRfe5eX98Ht+PIqUUvLHKZRrdHVotKpKww8hBMp/cGHvkp2lEcZ6fT/QQbVa7W8okRin1zwdHvMcWmR1th/btutX07RmuLJ7xvx0kIOLAvvJZdRIBPfGJm2a2hC3HvV7TUVREC9lkkdXuHt6iCzP0To9hSgU6TROmqEz3kGqqlJeW0ebnMCJWtnaBiGQlkX3430z/P2SH9RpGejHNk2U93fkF9QfH/6H56PjoIK0BS2KipA20rKZubluhqVSCZfLhc/n4+nulrfXN4aGh0DCbT5Pu7edvmG9EVarVZnJZAgGg6RSKcLhMLlcjlgsRjabxTAMdF0nFAqRTqeJRqOfPVqWJSuVSr2bRCJBPB7HKdnv92OaJh6Pp57G6/VSLBYJBAI4LXwAyRO9nuxDIzQAAAAASUVORK5CYII=)
-![MachineLearning](https://img.shields.io/badge/-+MachineLearning-black?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAfhJREFUOE99kj9oU1EUxn/nvjR5bZMgrYsESiHtFM3kUFFwUVxExEEFXZpCCzoIVvDP0jpZkCoIOgSbIFjQuoiD0FFQwbFKpdg+KlhQA1EMaZqkyT3yXiw1FfyWeznnfufe+32fsIW5xTAlojiRaVROBGVBUI0hPKZZGydOmdOpeqvl4/5ilE73MthRYITM4HxQf7jYg3Ffgp0AZsBk2aje4WKqLPg3ld1roMP+CNSugrjE6s+CF/jETHKIvHcK1WmQPNHqlLSmht9j7RXUfMbhLsgQttZLPL5BuXoOMe9Q24OYXtTew9bTQn4lj+oTipXXxDdDdOxKIdIPehSlTmZgjPxqP9gYw8kP5JaPIXJWyHlFMslebi90B8Sx/b+C//l1H35vJ3Je8V+i2d1DxC1QLoSD8xfSP4M17+1D2BvsrWa3iYGKy1cxjgc6SnX9DG7XJ6Ab4Wlgh4+1Qom+vu/txEdfEmzWOpFGBSMJmh0FpHkEYxQlC9RQDiPMb4vjezezPAnEoPkKnFkccxJpLNEMjYNNIGYNaz9i5NAfOyILiFyiYX8QMsWWet51Mslb+K/Q6kG66s9Zd49v2/F3AETeoPqAzMBbJtWw56tLuDIFugTmW3sA2iKnN1E9z8jgbCDEnDqUVtI45gBqb7RH7n8h3+qJvtgZ8t+Rqez4jn3gtwAAAABJRU5ErkJggg==)
-
-
-
-
-
 
 
 
