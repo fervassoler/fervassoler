@@ -7,11 +7,6 @@ Boas-vindas ao meu perfil.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dns.nanda@gmail.com)](mailto:dns.nanda@gmail.com)
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/fernandavassoler)](https://www.kaggle.com/fernandavassoler)
 
-<p align="left">
-  <img src="https://i.ytimg.com/vi/S9a3OXZwQFI/maxresdefault.jpg"/ width="800" height="500" >
-</p>
-<br>
-
 **Analista de dados:** com foco em coleta, pré processamento de dados e análise estatística.
 Tive atuação principalmente na construção e manutenção de chatbots. Foi onde trabalhei ativamente com processamento de NLP em big data e também no suporte de pipelines de machine learning em produção.
 
